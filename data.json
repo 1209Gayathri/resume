@@ -1,19 +1,27 @@
 {
-  "basics":{
-    "co":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization",
-    "Achive":{
-       "details":"medals on coding"
-     },
-     "education":[{
-       "name":"B.tech: ",
-       "inst":"completed my B.tech in ALIET in the stream of IT"
-     },
-     {
-       "name:"Intermediate: ",
-       "inst:"SSC:",
+  "co":"To work in a dynamic professional environment with a growing organization and utilize my creativity and innovative thinking for benefit of the organization and myself.",
 
-     }
+  "achievements":"I won an all India first prize during my college for coding.",
 
-     }
-  }
+  "educationqualifications":[{
+    "name":"B. Tech :",
+    "inst":"Completed B. Tech from ALIET with 87%."
+  },
+  {
+    "name":"Intermediate :",
+    "inst":"Completed college from Nalanda Vidya Niketan with 8.8 GPA."
+  },
+  {
+    "name":"SSC :",
+    "inst":"Completed schooling from Delhi Public School with 87%."
+  }],
+
+  "tech":[{
+    "name":"Operating Systems :",
+    "value":"Windows, Linux, . . . etc."
+  },{
+    "name":"Languages :",
+    "value":"HTML5, CSS3, JavaScript, Angular JS, C, C++, Java."
+  }]
+
 }
